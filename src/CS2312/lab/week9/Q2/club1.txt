@@ -1,0 +1,19 @@
+startNewDay 03-Jan-2024
+
+register 010 helena
+register 012 jason
+register 013 kit
+
+listMembers
+
+undo
+undo
+undo
+listMembers
+
+redo
+listMembers
+
+register 003 kit
+listMembers
+redo
